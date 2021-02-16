@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeetingWords", "MeetingWords\MeetingWords.csproj", "{DB3B20F6-970E-466B-A4F3-03C143B62C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB3B20F6-970E-466B-A4F3-03C143B62C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB3B20F6-970E-466B-A4F3-03C143B62C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB3B20F6-970E-466B-A4F3-03C143B62C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB3B20F6-970E-466B-A4F3-03C143B62C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE492905-427D-4D3F-A0B9-843C5F0C8F5F}
+	EndGlobalSection
+EndGlobal
